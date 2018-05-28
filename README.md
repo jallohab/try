@@ -4,4 +4,4 @@ This is a simple readme file.
 
 #Second part
 adding more stuff
-This is bound to cause trouble!
+JUST something going on
